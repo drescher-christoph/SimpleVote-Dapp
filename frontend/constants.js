@@ -1,0 +1,1 @@
+export const CONTRACT_ADDRESS = "0xe4a2b0f1DDB9283cDE9814a685Fb3427d6DF4EE0"; // Bsc Testnet
